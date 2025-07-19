@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Dependency lock files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# SQLite database files
+*.db
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+
+# Build output (frontend)
+frontend/build/
+
+# Misc
+*.swp 
