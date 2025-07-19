@@ -1,0 +1,13 @@
+.FilterButtons {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.amount {
+  font-weight: bold;
+  color: black;
+}
+
+.label {
+    color: black;
+}
