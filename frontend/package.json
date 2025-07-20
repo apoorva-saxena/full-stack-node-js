@@ -27,11 +27,15 @@
     ]
   },
   "browserslist": {
+    // browsers that have more than 0.2% global usage
+    // browsers that are no longer maintaines
+    // exclude all versions of opera mini
     "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
     ],
+    // for faster builds during development
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
